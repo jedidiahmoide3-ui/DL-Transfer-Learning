@@ -40,9 +40,8 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: Aaron Mariyan A
-
-### Register Number: 212224040004
+### Name: Jedidiah M D 
+### Register Number: 212225230116
 
 ```python
 import torch
